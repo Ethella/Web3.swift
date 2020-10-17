@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name             = 'Web3'
-  s.version          = '0.4.3'
+  s.name             = 'Web3Forked'
+  s.version          = '0.6.0'
   s.summary          = 'Web3 library for Swift. Sign transactions and interact with Smart Contracts in the Ethereum Network.'
 
   s.description      = <<-DESC
@@ -14,15 +14,12 @@ HTTP RPC interface provided by this library or a custom RPC interface
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Koray Koska' => 'koray@koska.at' }
-  s.source           = { :git => 'https://github.com/Boilertalk/Web3.swift.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Ethella/Web3.swift.git', :branch => "master" }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
-  s.osx.deployment_target = '10.10'
-  s.tvos.deployment_target = '9.0'
-  s.watchos.deployment_target = '2.0'
 
-  s.swift_versions = '5.1.3', '5.1.2', '5.0', '5.1'
+  s.swift_versions = '5.3'
 
   s.pod_target_xcconfig = {
     'OTHER_SWIFT_FLAGS' => '-DWeb3CocoaPods'
