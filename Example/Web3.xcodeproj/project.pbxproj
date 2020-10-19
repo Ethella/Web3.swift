@@ -47,6 +47,121 @@
 		E88B614F20B88F2E00C12395 /* String+Hex.swift in Sources */ = {isa = PBXBuildFile; fileRef = E88B614E20B88F2E00C12395 /* String+Hex.swift */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		A1C70600253B06C7001958FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A1C705F4253B06C7001958FD /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 91BB24BA472AF523E913108C9AA301F2;
+			remoteInfo = BigInt;
+		};
+		A1C70602253B06C7001958FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A1C705F4253B06C7001958FD /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = F81274EDB681F11E7CB05F7DCA2BB33C;
+			remoteInfo = CryptoSwift;
+		};
+		A1C70604253B06C7001958FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A1C705F4253B06C7001958FD /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = BAE263041362D074978BB3B577DF0A05;
+			remoteInfo = Nimble;
+		};
+		A1C70606253B06C7001958FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A1C705F4253B06C7001958FD /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B80754C2E550C8D4A5BF92B8EB299C17;
+			remoteInfo = "Pods-Web3_Tests";
+		};
+		A1C70608253B06C7001958FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A1C705F4253B06C7001958FD /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 002B1E88BA14EBF633CD66EBFBA107E9;
+			remoteInfo = PromiseKit;
+		};
+		A1C7060A253B06C7001958FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A1C705F4253B06C7001958FD /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0D631E9908483F9525A6B3F36F16CC61;
+			remoteInfo = Quick;
+		};
+		A1C7060C253B06C7001958FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A1C705F4253B06C7001958FD /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 40CCE1281164DE769303759678296832;
+			remoteInfo = secp256k1.swift;
+		};
+		A1C7060E253B06C7001958FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A1C705F4253B06C7001958FD /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 491AD620CF896E8E4E21FB6E07600A1D;
+			remoteInfo = Web3;
+		};
+		A1C7061C253B06C9001958FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A1C70610253B06C9001958FD /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 91BB24BA472AF523E913108C9AA301F2;
+			remoteInfo = BigInt;
+		};
+		A1C7061E253B06C9001958FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A1C70610253B06C9001958FD /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = F81274EDB681F11E7CB05F7DCA2BB33C;
+			remoteInfo = CryptoSwift;
+		};
+		A1C70620253B06C9001958FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A1C70610253B06C9001958FD /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = BAE263041362D074978BB3B577DF0A05;
+			remoteInfo = Nimble;
+		};
+		A1C70622253B06C9001958FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A1C70610253B06C9001958FD /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B80754C2E550C8D4A5BF92B8EB299C17;
+			remoteInfo = "Pods-Web3_Tests";
+		};
+		A1C70624253B06C9001958FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A1C70610253B06C9001958FD /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 002B1E88BA14EBF633CD66EBFBA107E9;
+			remoteInfo = PromiseKit;
+		};
+		A1C70626253B06C9001958FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A1C70610253B06C9001958FD /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0D631E9908483F9525A6B3F36F16CC61;
+			remoteInfo = Quick;
+		};
+		A1C70628253B06C9001958FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A1C70610253B06C9001958FD /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 40CCE1281164DE769303759678296832;
+			remoteInfo = secp256k1.swift;
+		};
+		A1C7062A253B06C9001958FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A1C70610253B06C9001958FD /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 491AD620CF896E8E4E21FB6E07600A1D;
+			remoteInfo = Web3;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
 		0E4503392059CAA1005C7D42 /* Int+ETH.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Int+ETH.swift"; sourceTree = "<group>"; };
 		0E9C6B482039E32F000E7225 /* EthereumPrivateKeyTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EthereumPrivateKeyTests.swift; sourceTree = "<group>"; };
@@ -72,6 +187,8 @@
 		607FACE51AFB9204008FA782 /* Web3_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Web3_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		746C365C55131A708ACBAB71 /* Web3.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Web3.podspec; path = ../Web3.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A1C705F4253B06C7001958FD /* Pods.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Pods.xcodeproj; path = Pods/Pods.xcodeproj; sourceTree = "<group>"; };
+		A1C70610253B06C9001958FD /* Pods.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Pods.xcodeproj; path = Pods/Pods.xcodeproj; sourceTree = "<group>"; };
 		DA16060729F56349F6C9ADD3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E807E53C20F5247A009CC575 /* Fallback.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Fallback.json; sourceTree = "<group>"; };
 		E85B781620D1ED3E0069E3B4 /* JSONContractTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSONContractTests.swift; sourceTree = "<group>"; };
@@ -214,9 +331,41 @@
 			name = "Podspec Metadata";
 			sourceTree = "<group>";
 		};
+		A1C705F5253B06C7001958FD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A1C70601253B06C7001958FD /* BigInt.framework */,
+				A1C70603253B06C7001958FD /* CryptoSwift.framework */,
+				A1C70605253B06C7001958FD /* Nimble.framework */,
+				A1C70607253B06C7001958FD /* Pods_Web3_Tests.framework */,
+				A1C70609253B06C7001958FD /* PromiseKit.framework */,
+				A1C7060B253B06C7001958FD /* Quick.framework */,
+				A1C7060D253B06C7001958FD /* secp256k1.framework */,
+				A1C7060F253B06C7001958FD /* Web3.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A1C70611253B06C9001958FD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A1C7061D253B06C9001958FD /* BigInt.framework */,
+				A1C7061F253B06C9001958FD /* CryptoSwift.framework */,
+				A1C70621253B06C9001958FD /* Nimble.framework */,
+				A1C70623253B06C9001958FD /* Pods_Web3_Tests.framework */,
+				A1C70625253B06C9001958FD /* PromiseKit.framework */,
+				A1C70627253B06C9001958FD /* Quick.framework */,
+				A1C70629253B06C9001958FD /* secp256k1.framework */,
+				A1C7062B253B06C9001958FD /* Web3.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		B444433184FBB2B4CDFC906D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				A1C705F4253B06C7001958FD /* Pods.xcodeproj */,
+				A1C70610253B06C9001958FD /* Pods.xcodeproj */,
 				FD5947923E8841F929DE0AE8 /* Pods_Web3_Tests.framework */,
 			);
 			name = Frameworks;
@@ -321,12 +470,137 @@
 			mainGroup = 607FACC71AFB9204008FA782;
 			productRefGroup = 607FACD11AFB9204008FA782 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = A1C705F5253B06C7001958FD /* Products */;
+					ProjectRef = A1C705F4253B06C7001958FD /* Pods.xcodeproj */;
+				},
+				{
+					ProductGroup = A1C70611253B06C9001958FD /* Products */;
+					ProjectRef = A1C70610253B06C9001958FD /* Pods.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				607FACE41AFB9204008FA782 /* Web3_Tests */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		A1C70601253B06C7001958FD /* BigInt.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = BigInt.framework;
+			remoteRef = A1C70600253B06C7001958FD /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		A1C70603253B06C7001958FD /* CryptoSwift.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = CryptoSwift.framework;
+			remoteRef = A1C70602253B06C7001958FD /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		A1C70605253B06C7001958FD /* Nimble.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Nimble.framework;
+			remoteRef = A1C70604253B06C7001958FD /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		A1C70607253B06C7001958FD /* Pods_Web3_Tests.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Pods_Web3_Tests.framework;
+			remoteRef = A1C70606253B06C7001958FD /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		A1C70609253B06C7001958FD /* PromiseKit.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = PromiseKit.framework;
+			remoteRef = A1C70608253B06C7001958FD /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		A1C7060B253B06C7001958FD /* Quick.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Quick.framework;
+			remoteRef = A1C7060A253B06C7001958FD /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		A1C7060D253B06C7001958FD /* secp256k1.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = secp256k1.framework;
+			remoteRef = A1C7060C253B06C7001958FD /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		A1C7060F253B06C7001958FD /* Web3.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Web3.framework;
+			remoteRef = A1C7060E253B06C7001958FD /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		A1C7061D253B06C9001958FD /* BigInt.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = BigInt.framework;
+			remoteRef = A1C7061C253B06C9001958FD /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		A1C7061F253B06C9001958FD /* CryptoSwift.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = CryptoSwift.framework;
+			remoteRef = A1C7061E253B06C9001958FD /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		A1C70621253B06C9001958FD /* Nimble.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Nimble.framework;
+			remoteRef = A1C70620253B06C9001958FD /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		A1C70623253B06C9001958FD /* Pods_Web3_Tests.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Pods_Web3_Tests.framework;
+			remoteRef = A1C70622253B06C9001958FD /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		A1C70625253B06C9001958FD /* PromiseKit.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = PromiseKit.framework;
+			remoteRef = A1C70624253B06C9001958FD /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		A1C70627253B06C9001958FD /* Quick.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Quick.framework;
+			remoteRef = A1C70626253B06C9001958FD /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		A1C70629253B06C9001958FD /* secp256k1.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = secp256k1.framework;
+			remoteRef = A1C70628253B06C9001958FD /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		A1C7062B253B06C9001958FD /* Web3.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Web3.framework;
+			remoteRef = A1C7062A253B06C9001958FD /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		607FACE31AFB9204008FA782 /* Resources */ = {
@@ -381,7 +655,7 @@
 				"${BUILT_PRODUCTS_DIR}/Nimble/Nimble.framework",
 				"${BUILT_PRODUCTS_DIR}/PromiseKit/PromiseKit.framework",
 				"${BUILT_PRODUCTS_DIR}/Quick/Quick.framework",
-				"${BUILT_PRODUCTS_DIR}/Web3/Web3.framework",
+				"${BUILT_PRODUCTS_DIR}/Web3Forked/Web3Forked.framework",
 				"${BUILT_PRODUCTS_DIR}/secp256k1.swift/secp256k1.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
@@ -391,7 +665,7 @@
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Nimble.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PromiseKit.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Quick.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Web3.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Web3Forked.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/secp256k1.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
