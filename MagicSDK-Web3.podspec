@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'Web3Forked'
+  s.name             = 'MagicSDK-Web3'
   s.version          = '0.4.3'
   s.summary          = 'Web3 library for Swift. Sign transactions and interact with Smart Contracts in the Ethereum Network.'
 
@@ -14,7 +14,7 @@ HTTP RPC interface provided by this library or a custom RPC interface
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Koray Koska' => 'koray@koska.at' }
-  s.source           = { :git => 'https://github.com/Ethella/Web3.swift.git', :branch => 'master' }
+  s.source           = { :git => 'https://github.com/Ethella/Web3.swift.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
@@ -28,7 +28,7 @@ HTTP RPC interface provided by this library or a custom RPC interface
   s.default_subspecs = 'Core', 'HTTPExtension'
 
   s.subspec 'Core' do |ss|
-    ss.source_files = 'Web3Forked/Classes/Core/**/*'
+    ss.source_files = 'MagicSDK-Web3/Classes/Core/**/*'
 
     # Core dependencies
     ss.dependency 'BigInt', '~> 4.0'
@@ -37,23 +37,23 @@ HTTP RPC interface provided by this library or a custom RPC interface
   end
 
   s.subspec 'HTTPExtension' do |ss|
-    ss.source_files = 'Web3Forked/Classes/FoundationHTTP/**/*'
+    ss.source_files = 'MagicSDK-Web3/Classes/FoundationHTTP/**/*'
 
-    ss.dependency 'Web3Forked/Core'
+    ss.dependency 'MagicSDK-Web3/Core'
   end
 
   s.subspec 'PromiseKit' do |ss|
-    ss.source_files = 'Web3Forked/Classes/PromiseKit/**/*'
+    ss.source_files = 'MagicSDK-Web3/Classes/PromiseKit/**/*'
 
-    ss.dependency 'Web3Forked/Core'
+    ss.dependency 'MagicSDK-Web3/Core'
     # PromiseKit dependency
     ss.dependency 'PromiseKit/CorePromise', '~> 6.0'
   end
 
   s.subspec 'ContractABI' do |ss|
-    ss.source_files = 'Web3Forked/Classes/ContractABI/**/*'
+    ss.source_files = 'MagicSDK-Web3/Classes/ContractABI/**/*'
 
-    ss.dependency 'Web3Forked/Core'
+    ss.dependency 'MagicSDK-Web3/Core'
   end
 
   # s.resource_bundles = {

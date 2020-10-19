@@ -1,8 +1,8 @@
 use_frameworks!
 target 'Web3_Tests' do
-  pod 'Web3Forked', :path => '../'
-  pod 'Web3Forked/PromiseKit', :path => '../'
-  pod 'Web3Forked/ContractABI', :path => '../'
+  pod 'MagicSDK-Web3', :path => '../'
+  pod 'MagicSDK-Web3/PromiseKit', :path => '../'
+  pod 'MagicSDK-Web3/ContractABI', :path => '../'
 
   pod 'Quick', '~> 2.1.0'
   pod 'Nimble', '~> 8.0.2'
