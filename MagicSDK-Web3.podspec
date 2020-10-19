@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'MagicSDK-Web3'
-  s.version          = '0.4.3'
+  s.version          = '0.4.4'
   s.summary          = 'Web3 library for Swift. Sign transactions and interact with Smart Contracts in the Ethereum Network.'
 
   s.description      = <<-DESC
